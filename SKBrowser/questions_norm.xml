@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<QuestionSet>
+    <Question title="Geistige Anforderungen" description="Wie viel geistige Anstrengung war bei den Aufgaben erforderlich (z.B. Denken, Entscheiden, Erinnern, Hinsehen, Suchen, ...)?" lowLabel="gering" highLabel="hoch" />
+    <Question title="Körperliche Anforderungen" description="Wie viel körperliche Aktivität war erforderlich (z.B. ziehen, drücken, aktivieren, ...)?" lowLabel="gering" highLabel="hoch" />
+    <Question title="Zeitliche Anforderungen" description="Wie viel Zeitdruck empfanden Sie beim Lösen der Aufgaben?" lowLabel="gering" highLabel="hoch" />
+    <Question title="Anstrengung" description="Wie hart mussten Sie arbeiten, um die Aufgaben zu lösen?" lowLabel="gering" highLabel="hoch" />
+    <Question title="Frustration" description="Wie unsicher, entmutigt, irritiert, gestresst und verärgert (versus sicher, bestätigt, zufrieden und entspannt) fühlten Sie sich während der Aufgabe?" lowLabel="gering" highLabel="hoch" />
+    <Question title="Spaßfaktor" description="Wie viel Spaß hat Ihnen die Benutzung des Interfaces gemacht?" lowLabel="gering" highLabel="hoch" />
+    <Question title="Ausführung der Aufgaben" description="Wie gut konnte Sie das Interface (und seine Interaktionsmöglichkeiten) beim Lösen der Suchaufgaben unterstützen?" lowLabel="schlecht" highLabel="gut" />
+</QuestionSet>

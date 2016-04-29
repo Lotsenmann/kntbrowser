@@ -1,0 +1,57 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+#endif
+
+typedef NS_ENUM(NSUInteger, AppMode) {
+    amUndefined,
+    amInitialDataEntry,
+    amSkBrowserDemo,
+    amQuestionDemo,
+    amTargetDisplayDemo,
+    amNormalBrowserDemo,
+    amShowTarget,
+    amStudyFinished
+};
+
+typedef NS_ENUM (NSUInteger, Gender) {
+    gFemale,
+    gMale
+};
+
+typedef NS_ENUM (NSUInteger, InitalBrowser) {
+    ibSkBrowser,
+    ibNormal
+};
+
+typedef NS_ENUM (NSUInteger, TargetSet) {
+    tgTargetSet1,
+    tgTargetSet2
+};
+
+#define PARSER_FILENAME @"targets"
+#define PARSER_TARGET_SET_COLLECTION @"TargetSets"
+#define PARSER_TARGET_SET @"TargetSet"
+#define PARSER_TARGET @"Target"
+#define PARSER_TARGET_ATTRIB_VIDEO @"video"
+#define PARSER_TARGET_ATTRIB_STARTFRAME @"startframe"
+#define PARSER_TARGET_ATTRIB_ENDFRAME @"endframe"
+
+#define QUESTIONS_FILENAME_NORMAL @"questions_norm"
+#define QUESTIONS_NORM_NODE @"Question"
+#define QUESTIONS_NORM_TITLE @"title"
+#define QUESTIONS_NORM_DESC @"description"
+#define QUESTIONS_NORM_LOW @"lowLabel"
+#define QUESTIONS_NORM_HIGH @"highLabel"

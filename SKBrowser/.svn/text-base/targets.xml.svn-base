@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<TargetSets>
+    <TargetSet>
+        <Target video="047" startframe="1683" endframe="2183" />
+        <Target video="043" startframe="19123" endframe="19623" />
+        <Target video="093" startframe="35747" endframe="36247" />
+        <Target video="091" startframe="2090" endframe="2590" />
+        <Target video="119" startframe="23208" endframe="23708" />
+    </TargetSet>
+    <TargetSet>
+        <Target video="099" startframe="35347" endframe="35847" />
+        <Target video="063" startframe="2787" endframe="3287" />
+        <Target video="042" startframe="2603" endframe="3103" />
+        <Target video="043" startframe="34308" endframe="34808" />
+        <Target video="113" startframe="18539" endframe="19039" />
+    </TargetSet>
+</TargetSets>
