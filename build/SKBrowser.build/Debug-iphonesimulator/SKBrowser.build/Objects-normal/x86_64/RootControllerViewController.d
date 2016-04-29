@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/lotsenmann/Projekte/AAU/SKBrowser/SKBrowser/RootControllerViewController.m \
+  /Users/lotsenmann/Projekte/AAU/SKBrowser/SKBrowser/RootControllerViewController.h \
+  /Users/lotsenmann/Projekte/AAU/SKBrowser/SKBrowser/AssetLoader.h \
+  /Users/lotsenmann/Projekte/AAU/SKBrowser/SKBrowser/Frame.h \
+  /Users/lotsenmann/Projekte/AAU/SKBrowser/SKBrowser/Video.h \
+  /Users/lotsenmann/Projekte/AAU/SKBrowser/SKBrowser/AssetLoaderDelegate.h \
+  /Users/lotsenmann/Projekte/AAU/SKBrowser/SKBrowser/BrowserViewController.h \
+  /Users/lotsenmann/Projekte/AAU/SKBrowser/SKBrowser/FrameButton.h \
+  /Users/lotsenmann/Projekte/AAU/SKBrowser/SKBrowser/GestureFFFRView.h \
+  /Users/lotsenmann/Projekte/AAU/SKBrowser/SKBrowser/RootDelegate.h \
+  /Users/lotsenmann/Projekte/AAU/SKBrowser/SKBrowser/InitalUserInformation.h \
+  /Users/lotsenmann/Projekte/AAU/SKBrowser/SKBrowser/Questionaire.h \
+  /Users/lotsenmann/Projekte/AAU/SKBrowser/SKBrowser/FinalQuestions.h \
+  /Users/lotsenmann/Projekte/AAU/SKBrowser/SKBrowser/StartViewController.h \
+  /Users/lotsenmann/Projekte/AAU/SKBrowser/SKBrowser/QuestionController.h \
+  /Users/lotsenmann/Projekte/AAU/SKBrowser/SKBrowser/WeightedQuestion.h \
+  /Users/lotsenmann/Projekte/AAU/SKBrowser/SKBrowser/Question.h \
+  /Users/lotsenmann/Projekte/AAU/SKBrowser/SKBrowser/SKBrowserQuestion.h \
+  /Users/lotsenmann/Projekte/AAU/SKBrowser/SKBrowser/TargetDisplayViewController.h \
+  /Users/lotsenmann/Projekte/AAU/SKBrowser/SKBrowser/Target.h \
+  /Users/lotsenmann/Projekte/AAU/SKBrowser/SKBrowser/SimpleLogger.h \
+  /Users/lotsenmann/Projekte/AAU/SKBrowser/SKBrowser/TargetManager.h \
+  /Users/lotsenmann/Projekte/AAU/SKBrowser/SKBrowser/NormalBrowser.h \
+  /Users/lotsenmann/Projekte/AAU/SKBrowser/SKBrowser/ThankYou.h \
+  /Users/lotsenmann/Projekte/AAU/SKBrowser/SKBrowser/FinalQuestionController.h
